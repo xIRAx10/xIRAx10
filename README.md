@@ -1,42 +1,40 @@
-# Hi! 👋 I´m Izar
+# Hi! 👋 I’m Izar
 
-## 🛠 Tecnologías y habilidades  
+## 🛠 Technologies & Skills  
 
-### 🌐 **Desarrollo Web**  
+### 🌐 **Web Development**  
 - HTML5, CSS, JavaScript  
 - WordPress  
-- Diseño web adaptable  
+- Responsive Web Design  
 
-### 🔹 **Backend & Bases de Datos**  
+### 🔹 **Backend & Databases**  
 - Java  
-- Administración de bases de datos  
+- Database Administration  
 - XML  
-- APIs REST  
+- REST APIs  
 
-### 📈 **Marketing Digital & Analítica**  
+### 📈 **Digital Marketing & Analytics**  
 - Google Analytics  
 - Google Ads  
 - Google Tag Manager  
 
-### 📊 **Gestión & Soft Skills**  
-- Gestión de proyectos  
-- Resolución de problemas  
-- Aprendizaje continuo  
+### 📊 **Management & Soft Skills**  
+- Project Management  
+- Problem Solving  
+- Continuous Learning  
 
 ---
 
-## 💼 **Experiencia**  
-🔹 **Desarrollador Web en Nrlyze AB**  
-- Implementación de sitios web con HTML, CSS y JavaScript  
-- Optimización SEO y gestión de campañas con Google Ads  
-- Uso de Google Tag Manager para el seguimiento de eventos  
+## 💼 **Experience**  
+🔹 **Web Developer at Nrlyze AB**  
+- Website implementation using HTML, CSS, and JavaScript  
+- SEO optimization and campaign management with Google Ads  
+- Using Google Tag Manager for event tracking  
 
 ---
-
 
 ### 📫 Contact  
 - 📧 Email: [izarrodriguez99@gmail.com](mailto:izarrodriguez99@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/izarrodriguezaraujo](https://www.linkedin.com/in/izarrodriguezaraujo/)  
-
 
 ---
