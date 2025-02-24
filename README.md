@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi! 👋 I´m Izar
 
-<!--
-**xIRAx10/xIRAx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tecnologías y habilidades  
 
-Here are some ideas to get you started:
+### 🌐 **Desarrollo Web**  
+- HTML5, CSS, JavaScript  
+- WordPress  
+- Diseño web adaptable  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 **Backend & Bases de Datos**  
+- Java  
+- Administración de bases de datos  
+- XML  
+- APIs REST  
+
+### 📈 **Marketing Digital & Analítica**  
+- Google Analytics  
+- Google Ads  
+- Google Tag Manager  
+
+### 📊 **Gestión & Soft Skills**  
+- Gestión de proyectos  
+- Resolución de problemas  
+- Aprendizaje continuo  
+
+---
+
+## 💼 **Experiencia**  
+🔹 **Desarrollador Web en Nrlyze AB**  
+- Implementación de sitios web con HTML, CSS y JavaScript  
+- Optimización SEO y gestión de campañas con Google Ads  
+- Uso de Google Tag Manager para el seguimiento de eventos  
+
+---
+
+
+### 📫 Contact  
+- 📧 Email: [izarrodriguez99@gmail.com](mailto:izarrodriguez99@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/izarrodriguezaraujo](https://www.linkedin.com/in/izarrodriguezaraujo/)  
+
+
+---
